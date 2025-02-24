@@ -52,6 +52,5 @@ This is a simple Vendor Management System built with FastAPI. It provides CRUD o
 - **Update a vendor**: `PUT /vendors/{vendor_id}`
 - **Delete a vendor**: `DELETE /vendors/{vendor_id}`
 
-## License
-This project is licensed under the MIT License.
+
 
